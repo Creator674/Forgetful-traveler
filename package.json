@@ -1,0 +1,28 @@
+{
+  "name": "forgetful-traveler",
+  "version": "1.0.0",
+  "description": "interview js task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creator674/Forgetful-traveler.git"
+  },
+  "keywords": [
+    "interview",
+    "js",
+    "task",
+    "junior"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creator674/Forgetful-traveler/issues"
+  },
+  "homepage": "https://github.com/Creator674/Forgetful-traveler#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
